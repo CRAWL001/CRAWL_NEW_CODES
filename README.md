@@ -1,10 +1,5 @@
-# 100 Days of JavaScript
+<img src="https://telegra.ph/file/ddec0dec49198c2f48b99.jpg">
 
-Collection of <a href="https://youtube.com/#AsmrProg" target="_blank">AsmrProg</a> Youtube Channel 100 days of JavaScript Coding <a href="https://www.youtube.com/playlist?list=PLkC56g8fboI0HghByzVuD2Vz8ROUXfF_j" target="_blank">Playlist</a> Codes!
-
-### Tutorial Video's
-
-Find Video's on : <a href="https://youtube.com/@AsmrProg" target="_blank">AsmrProg</a> Youtube Channel
 
 # Projects
 
@@ -84,7 +79,5 @@ Here we have list of projects:
 72. Common Sliders
 73. Gameboy Tetris Clone
 
-## Where is rest 27 Projects
 
-We create a project each 3 days with voting on our <a href="https://youtube.com/@AsmrProg" target="_blank">Youtube</a> channel.
-You can vote for upcoming projects on our channel **community** page :wink:
+ALL IN ONE (GAMING CRAWL GITHUB PAGE)
